@@ -1,3 +1,1 @@
-# All About Scales
-
-First commit
+No content header needed
